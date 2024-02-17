@@ -1,0 +1,22 @@
+EL PROBLEMA DE LA ASEGURADORA
+
+Radica en que no tenia un software capaz de capturar sus datos por lo que se le hacia complicado procesar la información.
+
+la aseguradora tiened parametros para otorgar los seguros.
+1. monto base 2000
+
+2. para las parejas hay un recargo que corresponde a la edad de la siguiente manera
+
+18 a 24 años 10%
+25 a 49 años 20%
+50 a más años 30%
+
+3. lo mismo hace con los hijos solo que estos independiente de la cantidad de hijos es 
+
+del 20% por cada hijo sobre el base de 2000
+
+por lo que vemos que el inconveniente en el area de programación se presenta cuando nos toca verificar si poseen conyuyes e hijos que eso hace que el programa tenga que dar opciones al usuario para que estos puedan proporcionar la información..
+
+Me a costado acomoplarme al curso puesto que es mi primir curso de programa formalmente y tambien en línea soy de la vieja escuela que precisa de una pizzarra y de ejercicios guiados..
+
+pero el apoyo audio visual que proporcionan me parece oportuno. El cual me a servido demasiado para apoyarme a comprender el contenido del curso 
